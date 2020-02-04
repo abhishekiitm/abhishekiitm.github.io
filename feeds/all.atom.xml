@@ -91,6 +91,11 @@ jupyter labextension install jupyter-threejs&lt;/p&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
+&lt;div class="jsfiddle"&gt;
+&lt;iframe allowfullscreen="allowfullscreen" frameborder="0" height="600" src="http://jsfiddle.net/yxe7fn9z/embedded/result/light/" width="100%"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h3&gt;2. Feature Normalization&lt;/h3&gt;
 &lt;p&gt;Our features area and number of number of bedrooms differ significantly in their orders of magnitude. In such cases, feature scaling is necessary to ensure gradient descent converges quickly.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# Normalize feature variable X&lt;/span&gt;
@@ -166,7 +171,7 @@ $$&lt;/div&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;&lt;img alt="png" src="assign1_files/assign1_46_1.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="png" src="images/assign1_46_1.png"&gt;&lt;/p&gt;
 &lt;h3&gt;6. Normal Equation&lt;/h3&gt;
 &lt;p&gt;Now let's find the optimal theta parameters using the normal equations.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# Reset X for solving the Normal Equation&lt;/span&gt;
@@ -224,6 +229,11 @@ $$&lt;/div&gt;
 &lt;span class="n"&gt;Animation&lt;/span&gt; &lt;span class="n"&gt;saved&lt;/span&gt; &lt;span class="k"&gt;to&lt;/span&gt; &lt;span class="n"&gt;scatter_plane_3d&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;html&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
+
+&lt;div class="jsfiddle"&gt;
+&lt;iframe allowfullscreen="allowfullscreen" frameborder="0" height="600" src="http://jsfiddle.net/71rbs8dL/embedded/result/light/" width="100%"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;This concludes the implementation of Linear Regression using Python. Please feel free to share your thoughts in the comments.&lt;/p&gt;
