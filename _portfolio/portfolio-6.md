@@ -10,11 +10,11 @@ Here's the difference between two plots, one without using linear bins and using
 
 **Linear bins:**
 
-<img src="../images/plot_lin_hist.png" width="70%"/>
+<img src="/images/plot_lin_hist.png" width="70%"/>
 
 **Logarithmic bins:**
 
-<img src="../images/plot_log_hist.png" width="70%"/>
+<img src="/images/plot_log_hist.png" width="70%"/>
 
 Plenty of real-world data follow [log-normal distribution](https://en.wikipedia.org/wiki/Log-normal_distribution#Occurrence_and_applications) - population, income, size of media files to name a few.
 
