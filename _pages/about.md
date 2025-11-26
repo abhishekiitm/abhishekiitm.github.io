@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant in the [Department of Electrical and Computer Engineering, University of Washington](https://emitlab.ece.uw.edu/). I have completed my [Masters in Data Science at the University of Washington](https://www.washington.edu/datasciencemasters/) and have done my B.Tech and M.Tech in [Electrical Engineering from IIT Madras](https://www.ee.iitm.ac.in/). My professional journey spans five years, where I was fortunate to hone my skills at [Xiaomi](https://www.mi.com/in/), [OpsMx](https://www.opsmx.com/) and [Bosch Research](https://www.bosch.us/our-company/innovation/) transitioning from data analysis to specializing in machine learning and software engineering. I enjoy working at the intersection of research and engineering as I am fascinated by the entire range of problem solving, right from the underlying theory to modelling as well as to engineering.
+I am a Computer Engineering Ph.D. student at [Rutgers University](https://www.ece.rutgers.edu/), where I am fortunate to be advised by [Prof. Hang Liu](https://asherliu.github.io/) in the [HPDA Lab](https://asherliu.github.io/). My research lies at the intersection of **Systems, Security, and AI**, and am currently dabbling with **LLM Security**, **Trusted Execution Environments (TEEs)**, and **Agentic AI**.
+
+Previously, I completed my [M.S. in Data Science at the University of Washington](https://www.washington.edu/datasciencemasters/) and earned my B.Tech. and M.Tech. in [Electrical Engineering from IIT Madras](https://www.ee.iitm.ac.in/).
+
+**Open to Collaboration:**
+I am always looking for interesting problems to solve and rigorous people to work with. If you are interested in discussing a potential collaboration or want a project to work on, please feel free to reach out via email.

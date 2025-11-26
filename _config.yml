@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abhishek Saini"
 title_separator          : "-"
 name                     : &name "Abhishek Saini"
-description              : &description "Graduate Research Assistant at UW"
+description              : &description "Ph.D. Student at Rutgers University"
 url                      : https://abhishekiitm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhishekiitm/abhishekiitm.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abhishek Saini"
   avatar           : "profile.jpg"
-  bio              : "Graduate Research Assistant at University of Washington, interested in Applied AI"
-  location         : "Seattle, WA"
+  bio              : "Ph.D. Student at Rutgers University. Working at the intersection of Systems, Security, and AI."
+  location         : "Piscataway, NJ"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "work.abhisheksaini@gmail.com"
+  email            : "abhishek.saini@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
